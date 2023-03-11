@@ -34,5 +34,8 @@ public class Demo1 {
     System.out.println("两位小数位："+strnum2);
 
     System.out.println("三位小数位："+strnum3);
+        
+    System.out.println("pull test!");
+    
     }
 }
